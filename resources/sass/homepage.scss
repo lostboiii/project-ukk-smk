@@ -1,0 +1,38 @@
+
+body{
+    // background-image: url('https://a-static.besthdwallpaper.com/kamisato-ayaka-genshin-impact-wallpaper-1920x1200-87042_6.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(230, 226, 221);
+}
+.navbar
+{
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.welkom{
+    text-align: center;
+    margin-top: 70px;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Lexend', sans-serif;
+    font-style: semiBold;
+    font-weight: 600;
+}
+.pengantar{
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Lexend', sans-serif;
+    font-style: semiBold;
+    font-weight: 600;
+
+}
+.bros:hover{
+    background-color: red;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.texto{
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Lexend', sans-serif;
+}
